@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class Task117 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+       Scanner scanner = new Scanner(System.in);
         System.out.println("10");
         int num1 = scanner.nextInt();
         System.out.println("20");
