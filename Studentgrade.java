@@ -1,6 +1,6 @@
 
 
-public class StudentGrade {
+public class Studentgrade {
     public static void main(String[] args) {
         int score =(55 );
         
